@@ -1,7 +1,7 @@
 <h1>School projects using Wireshark, Nmap, and Autopsy</h1>
 
 <h2>Description</h2>
-I have chosen to upload 2 projects from one of the courses that I found enjoyable while doing my Bachelor's degree at WGU in cybersecurity. The 2 projects for my class were during June 2023. One of the projects consists of using Nmap and Wireshark to find vulnerabilities in the network. The second project used a forensic tool, Autopsy. These projects are documentation of my using the tools and documenting my findings and steps towards those findings.
+I have chosen to upload 2 projects from one of the courses that utilized several tools during my Bachelor's degree at WGU in cybersecurity. The 2 projects for my class were during June 2023. One of the projects consists of using Nmap and Wireshark to find vulnerabilities in the network. The second project used a forensic tool, Autopsy. These projects are my documentation of using specific tools and documenting my findings and the steps towards those findings.
 
 <h2>Nmap + Wireshark</h2>
 For this project, I used Zenmap to identify vulnerabilities within a network of 6 computers such as weak protocols, and utilizing Mitre's Common Vulnerabilities and Exposures (CVE) to find vulnerable software being used on computers in the network. The second part of this project is using a Pcap file in Wireshark where I identify some of the traffic from this 6 computer network. Vulnerabilities found from Wireshark show several weak protocols being used and a threat actor from an IP address not in the network that created an account and password to log into the FTP server. 
